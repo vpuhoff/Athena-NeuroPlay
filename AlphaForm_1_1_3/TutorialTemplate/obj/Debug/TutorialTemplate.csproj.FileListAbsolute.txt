@@ -1,0 +1,9 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\bin\Debug\TestFormBraid2.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\bin\Debug\TestFormBraid2.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\obj\Debug\TestFormBraid2.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\obj\Debug\TestFormBraid2.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\obj\Debug\TutorialTemplate.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\obj\Debug\TestFormBraid2.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TutorialTemplate\obj\Debug\TestFormBraid2.pdb

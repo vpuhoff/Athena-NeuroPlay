@@ -1,0 +1,9 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\bin\Debug\TV Set.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\bin\Debug\TV Set.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\obj\Debug\TV_Set.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\obj\Debug\TV_Set.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\obj\Debug\TV Set.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\obj\Debug\TV Set.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TV Set\obj\Debug\TV Set.pdb

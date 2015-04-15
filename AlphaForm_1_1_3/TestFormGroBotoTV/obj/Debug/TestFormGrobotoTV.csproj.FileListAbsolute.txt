@@ -1,0 +1,18 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\GroBoto TV.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\GroBoto TV.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\TestForm.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\GroBoto_TV.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\TestFormGrobotoTV.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\GroBoto TV.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\GroBoto TV.pdb
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\GroBoto TV.exe
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\GroBoto TV.pdb
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\TestForm.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\GroBoto_TV.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\TestFormGrobotoTV.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\GroBoto TV.exe
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\TestFormGroBotoTV\obj\Debug\GroBoto TV.pdb

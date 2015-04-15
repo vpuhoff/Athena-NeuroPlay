@@ -1,0 +1,10 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\bin\Debug\ControlsOnTopOfSkin.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\bin\Debug\ControlsOnTopOfSkin.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\obj\Debug\ControlsOnTopOfSkin.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\obj\Debug\ControlsOnTopOfSkin.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\obj\Debug\ControlsOnTopOfSkin.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\obj\Debug\ControlsOnTopOfSkin.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\obj\Debug\ControlsOnTopOfSkin.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\ControlsOnTopOfSkin\obj\Debug\ControlsOnTopOfSkin.pdb

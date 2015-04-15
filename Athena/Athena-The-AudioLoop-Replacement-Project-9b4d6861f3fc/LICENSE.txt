@@ -1,0 +1,77 @@
+Athena: The AudioLoop Replacement Project
+© The Ginever Alliance, 2013
+
+This program is licensed software. Usage, modification, distribution and transfer are subject to the terms of the Ginever Community License Version 2 as published by Robert Dennington of the Ginever Alliance, or, at your discretion, any later version. The licensing terms can be found below for your convenience.
+
+======================================================================================
+
+GINEVER COMMUNITY LICENSE (GCL) VERSION 2
+Tuesday 24 September 2013
+
+================================================================================
+PREAMBLE
+================================================================================
+
+This license agreement is published and maintained by Robert James Dennington of the Ginever Alliance. Everyone has the right to create and distribute verbatim copies of this license agreement, but all other rights belong to Robert James Dennington of the Ginever Alliance and may only be granted to you with his express permission.
+
+================================================================================
+TERMS AND CONDITIONS
+================================================================================
+
+===================================================
+i. LICENSE AUTHORIZATION
+===================================================
+
+This software is automatically licensed to you by the Ginever Alliance upon receipt of the software as long as you accept the terms and conditions of this license agreement.
+
+While it is not a legal requirement to accept the terms and conditions of this license agreement, nothing else grants you permission to use, modify, distribute or transfer the software or its derivative works. If you do not accept the terms and conditions, these actions are prohibited by law.
+
+You may only use, modify, distribute or transfer the software if your method of use, modification, distribution or transferrance is directly authorized by these terms and conditions.
+
+===================================================
+ii. USE OF THE SOFTWARE
+===================================================
+
+As a licensee, you are allowed to use the software for any purpose, as long as your use of the software does not result in harm or damage to the Ginever Alliance in any way.
+
+===================================================
+iii. DISTRIBUTION OF THE SOFTWARE
+===================================================
+
+As a licensee, you are allowed to distribute the software to any other authorized licensee, as long as you distribute it at no charge. You may also distribute it to anyone who is not currently an authorized licensee, because a license will be granted automatically to them on receipt of the software as previously stipulated in section i (LICENSE AUTHORIZATION).
+
+All distributions of this software must retain the copyright notice and license agreement.
+
+===================================================
+iv. MODIFICATION OF THE SOFTWARE AND DISTRIBUTION OF MODIFICATIONS
+===================================================
+
+As a licensee, you are authorized to modify the software as long as your modifications to the software do not result in harm or damage to the Ginever Alliance in any way. You may also distribute your modifications to any other licensee, as long as you distribute them at no charge.
+
+If any licensee acquires via any means a copy of any modifications permitted by these terms, they are authorized to use, distribute and modify those modifications as if they were part of the original software. When distributing modifications to the software, they must be clearly marked as such and the author(s) of the modifications must be clearly stated.
+
+===================================================
+v. SALE AND TRANSFER OF THE SOFTWARE
+===================================================
+
+You may not sell or transfer the software under any circumstances. You may, however, distribute the software to another party under the terms stipulated in section iii (DISTRIBUTION OF THE SOFTWARE) which will thus automatically grant the person you are distributing it to with a license. This has a similar effect to transferring the software, except that you do not lose your license or authorization.
+
+===================================================
+vi. LICENSING AND SUBLICENSING OF THE SOFTWARE
+===================================================
+
+Only the Ginever Alliance has the authorization to license or sublicense the software.
+
+===================================================
+vii. ENDORSEMENT OF THE SOFTWARE
+===================================================
+
+The name of the Ginever Alliance or of any other software developer who has worked on this software or its modifications may not be used to endorse or promote this software without specific prior written permission.
+
+===================================================
+viii. NO WARRANTY
+===================================================
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use of other dealings in the software.
+
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of the Ginever Alliance.

@@ -1,0 +1,11 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\bin\Debug\TestApp.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\bin\Debug\TestApp.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\bin\Debug\AlphaForms.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\bin\Debug\AlphaForms.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\obj\x86\Debug\TestApp_2010.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\obj\x86\Debug\TestApp.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\obj\x86\Debug\TestApp_2010.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\TestApp\obj\x86\Debug\TestApp.AlphaForm_Extended1.resources

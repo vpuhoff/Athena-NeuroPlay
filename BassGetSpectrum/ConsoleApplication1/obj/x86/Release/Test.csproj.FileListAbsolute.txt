@@ -1,0 +1,2 @@
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb

@@ -1,0 +1,9 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\bin\Debug\TestFormSkinChange.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\bin\Debug\TestFormSkinChange.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\obj\Debug\TestFormSkinChange.Form1.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\obj\Debug\TestFormSkinChange.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\obj\Debug\TestFormSkinChange.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\obj\Debug\TestFormSkinChange.exe
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\TestFormSkinChange\obj\Debug\TestFormSkinChange.pdb

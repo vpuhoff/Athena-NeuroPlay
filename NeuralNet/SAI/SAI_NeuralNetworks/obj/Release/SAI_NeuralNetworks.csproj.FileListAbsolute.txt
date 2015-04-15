@@ -1,0 +1,14 @@
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Release\SAI_NeuralNetworks.exe
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Release\SAI_NeuralNetworks.pdb
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Release\ClassLibraryNeuralNetworks.dll
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\bin\Release\ClassLibraryNeuralNetworks.pdb
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\SAI_NeuralNetworks.Form1.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\SAI_NeuralNetworks.Form2.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\SAI_NeuralNetworks.Form3.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\SAI_NeuralNetworks.Properties.Resources.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\SAI_NeuralNetworks.exe
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\SAI_NeuralNetworks.pdb
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\SAI_NeuralNetworks.Form4.resources
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\root\Мои документы\Visual Studio 2008\Projects\SAI_NeuralNetworks\SAI_NeuralNetworks\obj\Release\GenerateResource-ResGen.write.1.tlog

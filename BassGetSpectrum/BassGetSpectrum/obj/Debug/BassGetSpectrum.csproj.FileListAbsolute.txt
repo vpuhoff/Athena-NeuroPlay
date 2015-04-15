@@ -1,0 +1,18 @@
+C:\Users\vipuhov\AppData\Local\Temporary Projects\BassGetSpectrum\bin\Debug\BassGetSpectrum.dll
+C:\Users\vipuhov\AppData\Local\Temporary Projects\BassGetSpectrum\bin\Debug\BassGetSpectrum.pdb
+C:\Users\vipuhov\AppData\Local\Temporary Projects\BassGetSpectrum\obj\Debug\BassGetSpectrum.dll
+C:\Users\vipuhov\AppData\Local\Temporary Projects\BassGetSpectrum\obj\Debug\BassGetSpectrum.pdb
+C:\Users\vipuhov\AppData\Local\Temporary Projects\BassGetSpectrum\bin\Debug\Bass.Net.dll
+C:\Users\vipuhov\AppData\Local\Temporary Projects\BassGetSpectrum\bin\Debug\Bass.Net.xml
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\obj\Debug\BassGetSpectrum.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Debug\BassGetSpectrum.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Debug\BassGetSpectrum.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Debug\Bass.Net.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Debug\Bass.Net.xml
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\obj\Debug\BassGetSpectrum.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\obj\Debug\BassGetSpectrum.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Debug\OpenTK.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Debug\OpenTK.GLControl.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\obj\Debug\BassGetSpectrum.GLForm.resources
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\obj\Debug\BassGetSpectrum.csproj.GenerateResource.Cache

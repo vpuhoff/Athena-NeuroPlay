@@ -1,0 +1,9 @@
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Release\BassGetSpectrum.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Release\Bass.Net.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Release\BassGetSpectrum.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Release\Bass.Net.xml
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb

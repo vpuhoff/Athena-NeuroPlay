@@ -1,0 +1,12 @@
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\BassGetSpectrum.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\Bass.Net.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\BassGetSpectrum.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\Bass.Net.xml
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\ConsoleApplication1\bin\Debug\OpenTK.dll

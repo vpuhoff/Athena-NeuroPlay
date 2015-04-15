@@ -1,0 +1,4 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\AlphaForms\bin\Debug\AlphaForms.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\AlphaForms\bin\Debug\AlphaForms.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\AlphaForms\obj\Debug\AlphaForms.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForms\AlphaForms\obj\Debug\AlphaForms.pdb

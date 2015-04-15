@@ -1,0 +1,14 @@
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\obj\Debug\AlphaForm.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\obj\Debug\AlphaForm.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\obj\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\obj\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\AlphaForm_1_1_3\obj\Debug\AlphaForm.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\bin\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\bin\Debug\AlphaForm.pdb
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\obj\Debug\AlphaForm.csprojResolveAssemblyReference.cache
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\obj\Debug\AlphaForm.Properties.Resources.resources
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\obj\Debug\AlphaForm.csproj.GenerateResource.Cache
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\obj\Debug\AlphaForm.dll
+C:\Users\vipuhov\Desktop\Разработки\Athena-NeuroPlay\AlphaForm_1_1_3\obj\Debug\AlphaForm.pdb

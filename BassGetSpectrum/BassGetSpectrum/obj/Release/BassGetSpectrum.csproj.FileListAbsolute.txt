@@ -1,0 +1,6 @@
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Release\BassGetSpectrum.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Release\BassGetSpectrum.pdb
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Release\Bass.Net.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\bin\Release\Bass.Net.xml
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\obj\Release\BassGetSpectrum.dll
+C:\Users\vipuhov\Desktop\Разработки\BassGetSpectrum\BassGetSpectrum\obj\Release\BassGetSpectrum.pdb
