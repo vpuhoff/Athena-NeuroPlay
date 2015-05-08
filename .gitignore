@@ -43,3 +43,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.bak
+Athena/Athena-The-AudioLoop-Replacement-Project-9b4d6861f3fc/Athena/bin/x86/Debug/PlaylistNames.pls
+*.pls
+*.db
